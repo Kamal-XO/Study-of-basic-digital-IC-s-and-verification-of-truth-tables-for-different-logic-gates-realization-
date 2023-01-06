@@ -64,8 +64,13 @@ Developed by: SV KAMALESH
 RegisterNumber: 22001133
 ```
 ## Logic symbol & Truthtable
-### RTL realization
-## Output: 
+
+
+
+### RTL realization Output: 
+
+
+
 RTL
 
 Result:

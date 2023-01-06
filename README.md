@@ -65,7 +65,7 @@ RegisterNumber: 22001133
 ```
 ## Logic symbol & Truthtable
 
-
+[OUTPUT](./LOGIC.png)
 
 ### RTL realization Output: 
 
